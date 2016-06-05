@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CONTROL ANDROID-PC</string>
+    <string name="action_settings">Sobre esta APP</string>
+    <string name="texto_about">Aplicación desarrollada por\nLuis Espinel Fuentes.\nEstudiante de Ingenieria de Sistemas - Colombia</string>
+</resources>
